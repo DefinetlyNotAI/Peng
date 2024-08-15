@@ -1,0 +1,28 @@
+# Simple Peng program demonstrating various operations and functions
+
+# Arithmetic operations
+x = 5 plus 3
+print(x)  # Outputs: 8
+
+product = 4 multiply 7
+print(product)  # Outputs: 28
+
+# Comparison operations
+isEqual = 10 equal_to 10
+print(isEqual)  # Outputs: True
+
+greaterThan = 20 greater_than 15
+print(greaterThan)  # Outputs: True
+
+# Logical operation
+bothTrue = True bitwise_and False
+print(bothTrue)  # Outputs: False
+
+# Built-in functions
+lengthOfString = length_of ("Hello, Peng!")
+print(lengthOfString)  # Outputs: 12
+
+sortedList = sort ([3, 1, 4, 1, 5, 9])
+print(sortedList)  # Outputs: [1, 1, 3, 4, 5, 9]
+
+# Note: This is a conceptual representation. Actual implementation details may vary.
