@@ -19,10 +19,10 @@ bothTrue = True bitwise_and False
 print(bothTrue)  # Outputs: False
 
 # Built-in functions
-lengthOfString = length_of ("Hello, Peng!")
+lengthOfString = length_of("Hello, Peng!")
 print(lengthOfString)  # Outputs: 12
 
-sortedList = sort ([3, 1, 4, 1, 5, 9])
+sortedList = sort([3, 1, 4, 1, 5, 9])
 print(sortedList)  # Outputs: [1, 1, 3, 4, 5, 9]
 
 # Note: This is a conceptual representation. Actual implementation details may vary.
