@@ -32,6 +32,7 @@ Ensure your system meets these requirements:
 Just create a .peng file with normal python programming, then you may replace the following words with easier peng counterparts to learn programming easier:
 Finally you can run peng.py via `python peng.py -h` to see available commands, Enjoy
 
+```
 replacements for operators
     "multiply": "*",
     "divide_by": "/",
@@ -128,3 +129,4 @@ replacements_function
     "floating_point_number": "float",
     "complex_number": "complex",
     "boolean_value": "bool"
+```
