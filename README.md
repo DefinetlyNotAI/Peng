@@ -29,11 +29,13 @@ Ensure your system meets these requirements:
 
 ### Basic Usage
 
-Just create a .peng file with normal python programming, then you may replace the following words with easier peng counterparts to learn programming easier:
+Just create a .peng file with normal python programming, 
+then you may replace the following words with easier peng counterparts to learn programming easier:
 Finally you can run peng.py via `python peng.py -h` to see available commands, Enjoy
 
 
-The first part shows the english version of the python lang
+The first part shows the english version of the python language, the second part shows the python version of the language
+You can add and remove from `Replacements.py` to add more words to the dictionary:-
 ```
 replacements for operators
     "multiply": "*",

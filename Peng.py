@@ -63,3 +63,5 @@ def transcriber():
 
 if __name__ == "__main__":
     transcriber()
+else:
+    raise ImportError("Peng should be run as a standalone script.")
